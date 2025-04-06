@@ -1,0 +1,11 @@
+# Virtual environments
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Testing files
+misc/
+mods/
+*.jar
+
